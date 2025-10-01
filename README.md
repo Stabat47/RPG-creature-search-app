@@ -2,7 +2,7 @@
 
 A simple and responsive web app that lets you search for RPG creatures by **name or ID** and displays detailed stats in a retro console-style interface.
 
-![Preview of RPG Creature Search App](./screenshot.png) 
+![Preview of RPG Creature Search App](./Screenshot.png) 
 
 ---
 
